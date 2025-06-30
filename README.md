@@ -1,10 +1,10 @@
-![screenshot](public/img.png)
+
 
 # GitHub Analytics Dashboard
 
 A modern, visually-rich dashboard for developers to analyze their GitHub activity, repositories, language usage, and contributions. Built with React, Tailwind CSS, and Recharts, this app provides live insights into your GitHub profile using the GitHub API and GraphQL.
 
-![screenshot](public/logo192.png)
+![screenshot](public/img.png)
 
 ## Features
 
